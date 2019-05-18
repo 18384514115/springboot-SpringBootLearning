@@ -1,0 +1,4 @@
+mybatis  主要看配置项可有哪些
+http://www.mybatis.org/mybatis-3/zh/configuration.html#properties
+springboot整合mybatis的两种方式（改模块用的是第一种 注解的方式 ，tx使用的是第二种  配置文件的方式）
+http://blog.720ui.com/2016/springboot_02_data_mybatis/
